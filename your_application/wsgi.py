@@ -9,5 +9,3 @@ def hello_world():
     """
     return 'Hello from Jules! The deployment was successful.'
 
-if __name__ == '__main__':
-    application.run()
